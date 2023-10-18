@@ -4,8 +4,9 @@ import {StyleSheet, View, Text,Pressable} from 'react-native';
 
 export default function SelectScreen({route, navigation}) {
     const chordss = [
-        "Abmaj7",
         "A",
+        "Abmaj7",
+        
         "A6",
         "A7",
         "A9",
